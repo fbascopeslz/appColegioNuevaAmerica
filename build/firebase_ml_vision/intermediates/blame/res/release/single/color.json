@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Fernando Bascope\\Desktop\\Proyectos Taller de Grado\\Notas-master\\build\\firebase_ml_vision\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Fernando Bascope\\.gradle\\caches\\transforms-2\\files-2.1\\4563a6eadc3e24e29acaea567151e7a2\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fernando Bascope\\Desktop\\Proyectos Taller de Grado\\Notas-master\\build\\firebase_ml_vision\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Fernando Bascope\\.gradle\\caches\\transforms-2\\files-2.1\\4563a6eadc3e24e29acaea567151e7a2\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fernando Bascope\\Desktop\\Proyectos Taller de Grado\\Notas-master\\build\\firebase_ml_vision\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Fernando Bascope\\.gradle\\caches\\transforms-2\\files-2.1\\4563a6eadc3e24e29acaea567151e7a2\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_light.xml"
+    }
+]

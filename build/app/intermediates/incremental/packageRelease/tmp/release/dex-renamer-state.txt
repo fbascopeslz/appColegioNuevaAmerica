@@ -1,0 +1,4 @@
+#Wed Mar 10 23:01:17 BOT 2021
+base.0=C\:\\Users\\Fernando Bascope\\Desktop\\Proyectos Taller de Grado\\Notas-master\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

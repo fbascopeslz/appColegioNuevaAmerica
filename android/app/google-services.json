@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950660335281",
+    "project_id": "notascolegio-ef805",
+    "storage_bucket": "notascolegio-ef805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950660335281:android:04139b30998b2add720490",
+        "android_client_info": {
+          "package_name": "com.fap.notas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950660335281-1t5278r8q0ggbf8fjju99v5dp88h6e8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4rRSaHRsPBddWLL4o2VbUYKhv28LGACE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950660335281-1t5278r8q0ggbf8fjju99v5dp88h6e8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
